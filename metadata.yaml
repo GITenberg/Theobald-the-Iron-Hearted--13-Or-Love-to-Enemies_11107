@@ -1,0 +1,31 @@
+_repo: Theobald-the-Iron-Hearted--13-Or-Love-to-Enemies_11107
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Malan, César
+    aliases:
+    - Malan, Cesar
+    - Malan, C. (César)
+    - Malan, Caesar
+    - Malan, Henri Abraham César
+    birthdate: 1787
+    deathdate: 1864
+    gutenberg_agent_id: '40379'
+    url: http://www.gutenberg.org/2009/agents/40379
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Kindness -- Juvenile fiction'
+- !lcsh 'Love -- Religious aspects -- Juvenile fiction'
+- GITenberg
+title: "Theobald, the Iron-Hearted\r\nOr, Love to Enemies"
+url: http://www.gutenberg.org/ebooks/11107
